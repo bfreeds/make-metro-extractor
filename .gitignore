@@ -1,0 +1,7 @@
+# ignore the created data directories
+raw/
+osm2pgsql/
+imposm/
+coastline/
+
+.DS_STORE
