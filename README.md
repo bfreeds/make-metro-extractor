@@ -44,4 +44,4 @@ The following `make` commands are available:
     - `make osm.water.coastline`
     - `make osm.land.coastline`
 
-You can run the combined make commands or the standalone (`$ make imposm.shp`).  The combined commands will download large files -- I would only use them if you have a specific reason to (experiment with different OSM file formatting).
+You can run the combined make commands (`$ make imposm.shp`) or the standalone (`$ make imposm.geojson`).  The combined commands will download large files -- I would only use them if you have a specific reason to (experiment with different OSM file formatting).
