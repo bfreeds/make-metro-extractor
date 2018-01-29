@@ -26,11 +26,10 @@ $ make coastline
 ```
 
 The following `make` commands are available:
-- `make coastline`
 - `make raw`
   - includes both : (*warning -- is large*)
-   - `make osm.pbf`
-   - `make osm.xml`
+    - `make osm.pbf`
+    - `make osm.xml`
 - `make osm2pgsql`
   - includes both : (*warning -- is large*)
     - `make osm2pgsql.geojson`
