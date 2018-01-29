@@ -13,7 +13,8 @@ See [here](https://mapzen.com/documentation/metro-extracts/file-format/) for a g
 # Usage  
 1.  Clone this repository  
 ```shell
-$ git clone
+$ git clone https://github.com/bfreeds/metro-extractor.git  
+$ cd metro-extractor
 ```
 2.  Download the extract  
 ```shell
