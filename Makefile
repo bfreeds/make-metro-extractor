@@ -16,7 +16,7 @@
 		#	osm.land.coastline
 
 # Requires arguments CITY and STATE to be passed
-# Pass as command argument (ex. make -CITY="new-york" -STATE="new-york" coastline)
+# Pass as command argument (ex. make CITY="new-york" STATE="new-york" coastline)
 # Or as environment variable $ export CITY=new-york
 # Note: spaces should be separated with a dash (ex. "new-york")
 PLACE = $(CITY)_$(STATE)
